@@ -1,0 +1,321 @@
+Interview Subject: Allen, Mildred, 1894-1990
+Source: 80676
+Total PERSON/ORG entities: 207
+========================================================================================================================
+
+ENTITY                    LABEL           COUNT    CONTEXT EXAMPLES
+------------------------------------------------------------------------------------------------------------------------
+MIT                       ORG             14       engineering at MIT from ‘
+                                                   graduated from MIT in 1872
+                                                   p > MIT was in
+
+Harvard                   ORG             11       retirement from Harvard . During
+                                                   ties to Harvard . I
+                                                   for my Harvard history project
+
+Clark                     PERSON          9        part of Clark , that
+                                                   time , Clark had a
+                                                   went to Clark in ‘
+
+Bartol                    PERSON          7        to the Bartol and stayed
+                                                   see , Bartol moved out
+                                                   . The Bartol is better
+
+Saunders                  PERSON          6        under Professor Saunders , and
+                                                   knew Professor Saunders pretty nearly
+                                                   put Professor Saunders in .
+
+Vassar                    ORG             4        life at Vassar ? What
+                                                   choice of Vassar and physics
+                                                   ties to Vassar . I
+
+Copenhagen                ORG             4        days in Copenhagen , and
+                                                   straight to Copenhagen , ten
+                                                   days in Copenhagen and ten
+
+Wellesley                 ORG             4        ties to Wellesley . I
+                                                   > At Wellesley was it
+                                                   , at Wellesley , in
+
+Saxl                      PERSON          4        But Dr. Saxl has been
+                                                   because Dr. Saxl is having
+                                                   than Dr. Saxl ’s but
+
+Roxbury                   ORG             3        home in Roxbury , near
+                                                   in to Roxbury to the
+                                                   minister in Roxbury . Also
+
+Margaret                  PERSON          3        closed . Margaret could n’t
+                                                   my sister Margaret had had
+                                                   ” Originally Margaret was taking
+
+Quaker                    ORG             3        to the Quaker meeting .
+                                                   was a Quaker . As
+                                                   been our Quaker minister in
+
+Yale                      ORG             3        him at Yale , and
+                                                   courses . Yale -- there
+                                                   Chicago and Yale , were
+
+Swarthmore                PERSON          3        Oh , Swarthmore is another
+                                                   ’ve known Swarthmore since 1902
+                                                   Yes , Swarthmore decided that
+
+British Association       ORG             3        to the British Association meeting ,
+                                                   to the British Association meeting in
+                                                   to the British Association meeting in
+
+IBM                       ORG             3        is in IBM . She
+                                                   of using IBM computers for
+                                                   . But IBM will not
+
+Sharon                    ORG             2        moved from Sharon to West
+                                                   , from Sharon to West
+
+the New Mexico State University ORG             2        really founded the New Mexico State University , which
+                                                   ties to the New Mexico State University . I
+
+NEA                       ORG             2        because the NEA -- the
+                                                   , the NEA is going
+
+Clark University          ORG             2        went to Clark University , I
+                                                   was at Clark University not more
+
+A. C. Webster             PERSON          2        course , A. C. Webster had n’t
+                                                   work with A. C. Webster was strictly
+
+Oberlin                   PERSON          2        ties to Oberlin . And
+                                                   finished with Oberlin , and
+
+Webster                   PERSON          2        . Professor Webster started an
+                                                   > Was Webster a congenial
+
+Gale                      PERSON          2        one with Gale , I
+                                                   written as Gale did ,
+
+Swann                     ORG             2        through . Swann would come
+                                                   really knew Swann and Webster.</p
+
+Swann                     PERSON          2        to Professor Swann , and
+                                                   with Professor Swann I think
+
+Kemble                    PERSON          2        course Professor Kemble ’s first
+                                                   you known Kemble before that
+
+Physical Society          ORG             2        number of Physical Society meetings ,
+                                                   to a Physical Society meeting in
+
+Clancy                    PERSON          2        when Mr. Clancy was chairman
+                                                   when Mr. Clancy was away
+
+Sommerfeld                PERSON          2        think probably Sommerfeld was there
+                                                   I read Sommerfeld ’s Atombau.</p
+
+Katherine Sopka           PERSON          1        This is Katherine Sopka . It
+
+Mildred Allen             PERSON          1        visiting with Mildred Allen , at
+
+Miss Allen                PERSON          1        , Mass. Miss Allen , could
+
+the Dudley St. Station    ORG             1        , near the Dudley St. Station , into
+
+BackBay                   ORG             1        , into BackBay during the
+
+the Prudential Center     ORG             1        Street where the Prudential Center is now
+
+Frank                     PERSON          1        now , Frank , take
+
+the Santa Fe Railroad     ORG             1        to put the Santa Fe Railroad through .
+
+Las Cruces                ORG             1        is at Las Cruces . Also
+
+the National Education Association ORG             1        NEA -- the National Education Association has turned
+
+AAUP                      ORG             1        that the AAUP is also
+
+uncle’s house             ORG             1        aunt and uncle ’s house , where
+
+Sharon                    PERSON          1        went to Sharon because my
+
+Mount Holyoke College     ORG             1        here at Mount Holyoke College completely since
+
+the Mount Holyoke Chapter ORG             1        secretary of the Mount Holyoke Chapter of Sigma
+
+job.</p                   PERSON          1        a little job.</p > 
+
+
+Edna Carter               PERSON          1        and : Edna Carter and Frances
+
+Frances Wick              PERSON          1        Carter and Frances Wick . I
+
+Washburn                  PERSON          1        where Miss Washburn would get
+
+White                     PERSON          1        > Professor White , Henry
+
+Henry Seelye White        PERSON          1        White , Henry Seelye White . His
+
+Clark University?</p>
+    PERSON          1        go to Clark University?</p > 
+ < h3
+
+A. G. Webster?</p>
+       PERSON          1        You knew A. G. Webster?</p > 
+ < h3
+
+G. Stanley Hall           PERSON          1        . After G. Stanley Hall left ,
+
+C. L. Norton.</p>
+        PERSON          1        , under C. L. Norton.</p > 
+ < h3
+
+E. B. Wilson              PERSON          1        studied with E. B. Wilson , also
+
+the Congregational Church ORG             1        went to the Congregational Church , and
+
+not.</p                   PERSON          1        good or not.</p > 
+
+
+the New England Conservatory ORG             1        went to the New England Conservatory , in
+
+Margaret did.</p>
+        PERSON          1        it as Margaret did.</p > 
+ < h3
+
+Sigma Xi                  PERSON          1        and my Sigma Xi activity keep
+
+Earlham College           ORG             1        two at Earlham College in Indiana
+
+William Francis Gray Swann PERSON          1        was also William Francis Gray Swann . I
+
+Evelyn Clift              PERSON          1        there was Evelyn Clift , who
+
+Dorothy Weeks             PERSON          1        , and Dorothy Weeks . They
+
+Elizabeth Laird?</p       PERSON          1        have known Elizabeth Laird?</p > 
+
+
+Wellesley College         ORG             1        half at Wellesley College before returning
+
+McDowell                  PERSON          1        it Miss McDowell ? Who
+
+Lucy Wilson               PERSON          1        course , Lucy Wilson was there.</p
+
+Master’s?</p              PERSON          1        was your Master’s?</p > 
+
+
+A. G. Webster             PERSON          1        . Then A. G. Webster got on
+
+man.</p                   PERSON          1        a fascinating man.</p > 
+
+
+Franklin                  ORG             1        > And Franklin at MIT
+
+the University of Chicago ORG             1        went to the University of Chicago for some
+
+W.F.G. Swann              PERSON          1        course with W.F.G. Swann and one
+
+A.H. Compton              PERSON          1        one with A.H. Compton there ,
+
+the University of Chicago Library ORG             1        up in the University of Chicago Library where they
+
+Leigh Page                PERSON          1        under , Leigh Page , who
+
+Leigh Page’s              PERSON          1        something . Leigh Page ’s son has
+
+Swarthmore College        ORG             1        gate of Swarthmore College , so
+
+The Bartol Foundation     ORG             1        1902 . The Bartol Foundation of the
+
+the Franklin Institute    ORG             1        Foundation of the Franklin Institute you know
+
+the University of Delaware.</p ORG             1        moved to the University of Delaware.</p > 
+
+
+C. Stanley Hall           PERSON          1        assistant to C. Stanley Hall , President
+
+Kenneth Bainbridge        PERSON          1        time when Kenneth Bainbridge -- and
+
+Bainbridge                ORG             1        pong with Bainbridge . The
+
+Ted Kemble                PERSON          1        ’ve known Ted Kemble years and
+
+the physics department    ORG             1        party for the physics department in the
+
+the Faculty Club          ORG             1        department in the Faculty Club , and
+
+Monica Healea             PERSON          1        door . Monica Healea was there
+
+PHYSICAL REVIEW           ORG             1        looking into PHYSICAL REVIEW , that
+
+the American Physical Society ORG             1        comment about the American Physical Society , and
+
+the Physical Society      ORG             1        that officially the Physical Society has always
+
+Marcia Keith              PERSON          1        women . Marcia Keith from Mt.
+
+Erwin J. Saxl             PERSON          1        physicist , Erwin J. Saxl and he
+
+Einstein                  PERSON          1        worked under Einstein . But
+
+NASA                      ORG             1        near the NASA headquarters in
+
+Elizabeth Laird?</p>
+     PERSON          1        second to Elizabeth Laird?</p > 
+ < h3
+
+Mabel Chase               PERSON          1        , but Mabel Chase was ahead
+
+Margaret Shields          PERSON          1        so was Margaret Shields , who
+
+Princeton                 ORG             1        librarian at Princeton , I
+
+Laird                     PERSON          1        When Miss Laird retired ,
+
+Rogers D. Rusk            PERSON          1        retired , Rogers D. Rusk was very
+
+C. E. Howe                PERSON          1        helped was C. E. Howe . I
+
+fun.</p                   PERSON          1        was rather fun.</p > 
+
+
+APS                       ORG             1        of the APS meetings <
+
+Schrodinger               PERSON          1        on the Schrodinger wave equation
+
+Compton                   ORG             1        and the Compton effect ,
+
+Compton                   PERSON          1        was the Compton effect.</p >
+
+the University of Michigan ORG             1        one of the University of Michigan ( summer
+
+Brittany                  PERSON          1        drove through Brittany for most
+
+Association               ORG             1        to the Association meetings ,
+
+the British Association   ORG             1        went to the British Association in York
+
+Save the Children Federation Child ORG             1        visited my Save the Children Federation Child , in
+
+Central England.</p       ORG             1        part of Central England.</p > 
+
+
+K.T. Compton              PERSON          1        , while K.T. Compton was still
+
+Jane van Winkle Morgan    PERSON          1        remember : Jane van Winkle Morgan . She
+
+Hampshire College         PERSON          1        go to Hampshire College , but
+
+Jean McPherson Bennett    PERSON          1        one , Jean McPherson Bennett , has
+
+the University of Pennsylvania ORG             1        optics from the University of Pennsylvania that ’s
+
+the American Optical Society ORG             1        , for the American Optical Society . She
+
+Pric                      PERSON          1        368A ; Pric . Nat
+
+Nat                       PERSON          1        Pric . Nat . Acad
+
+Acad                      PERSON          1        Nat . Acad . Sci
+
+Sci                       PERSON          1        Acad . Sci . 10
+

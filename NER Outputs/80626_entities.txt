@@ -1,0 +1,128 @@
+Interview Subject: Agt, S. L. Th. J. van
+Source: 80626
+Total PERSON/ORG entities: 121
+========================================================================================================================
+
+ENTITY                    LABEL           COUNT    CONTEXT EXAMPLES
+------------------------------------------------------------------------------------------------------------------------
+Oosterhoff                PERSON          17       by Professor Oosterhoff at the
+                                                   astronomy by Oosterhoff , I
+                                                   wrong . Oosterhoff , of
+
+Oort                      PERSON          17       that was Oort , van
+                                                   . And Oort , gave
+                                                   course with Oort , I
+
+Hertzsprung               ORG             14       , was Hertzsprung 's interest.</p
+                                                   memories of Hertzsprung ? Of
+                                                   course , Hertzsprung was still
+
+van de Hulst              PERSON          10       Oort , van de Hulst and Oosterhoff
+                                                   . And van de Hulst was astrophysics
+                                                   also from van de Hulst . I
+
+Candidat                  PERSON          7        for your Candidat 's exam
+                                                   got your Candidat 's exam
+                                                   took your Candidat 's ,
+
+Doctorandus               PERSON          4        to the Doctorandus after the
+                                                   got my Doctorandus , it
+                                                   getting your Doctorandus ? You
+
+Leiden                    ORG             3        . But Leiden was just
+                                                   period , Leiden got a
+                                                   was that Leiden was not
+
+Stewart                   PERSON          2        Dugan and Stewart , *
+                                                   Dugan and Stewart . I
+
+Van de Hulst              PERSON          2        OK . Van de Hulst , what
+                                                   promotion . Van de Hulst asked me
+
+Candidat                  ORG             2        after the Candidat 's ,
+                                                   before the Candidat 's ,
+
+University                ORG             2        at the University . Now
+                                                   at the University , I
+
+Candidats                 PERSON          2        had your Candidats , you
+                                                   after my Candidats an assistant
+
+Nijmegen University       ORG             2        offer from Nijmegen University , which
+                                                   been at Nijmegen University ever since?</p
+
+Sputnik                   PERSON          2        the first Sputnik went up
+                                                   , with Sputnik and the
+
+J.H. Oort                 PERSON          1        was by J.H. Oort and the
+
+H. van de Hulst           PERSON          1        was by H. van de Hulst , if
+
+the technical department  ORG             1        mechanics at the technical department who built
+
+JOURNAL                   ORG             1        read any JOURNAL articles in
+
+BAN                       ORG             1        read the BAN your first
+
+Smart                     PERSON          1        there was Smart . *
+
+Russell Dugan             PERSON          1        there was Russell Dugan and Stewart
+
+Russell                   PERSON          1        Yes . Russell , Dugan
+
+Dugan                     PERSON          1        Russell , Dugan and Stewart
+
+Ginn                      PERSON          1        Astronomy ( Ginn , 1927)</p
+
+the Southern Station      ORG             1        responsibility for the Southern Station in South
+
+Chalonge                  ORG             1        extensively about Chalonge 's work
+
+LTE                       PERSON          1        started with LTE . Was
+
+van de Hulst's            PERSON          1        question in van de Hulst 's mind that
+
+Kapteyn?</p               PERSON          1        teacher , Kapteyn?</p > 
+
+
+the Literature Club       ORG             1        , called the Literature Club , where
+
+demon¬strations           ORG             1        few instructive demon¬strations showing the
+
+Dwingeloo                 PERSON          1        was not Dwingeloo , but
+
+Kootwyk                   PERSON          1        that , Kootwyk . The
+
+Radio Holland             ORG             1        grounds of Radio Holland . At
+
+the M (Post Telegraph Telephone ORG             1        work of the M ( Post Telegraph Telephone ) .
+
+Marchant                  ORG             1        were those Marchant machines ,
+
+iris photometer           PERSON          1        type diaphragm iris photometer . And
+
+Sterrewacht Lane          PERSON          1        . ( Sterrewacht Lane was on
+
+IAU                       ORG             1        at an IAU meeting in
+
+Baade                     PERSON          1        plates from Baade 's heritage
+
+you.</p                   PERSON          1        presented to you.</p > 
+
+
+a Southern Station        PERSON          1        There was a Southern Station , where
+
+ques¬tions                PERSON          1        can ask ques¬tions if he
+
+Elsevier Publishing       ORG             1        place with Elsevier Publishing , in
+
+Intra-Academic            ORG             1        the Dutch Intra - Academic meeting lasting
+
+Groningen                 PERSON          1        Utrecht , Groningen , Leiden?</p
+
+the Nijmegen University   ORG             1        not take the Nijmegen University very seriously
+
+Simon Stevin              PERSON          1        they made Simon Stevin , who
+
+Simon                     PERSON          1        it was Simon Stevin.</p >
+

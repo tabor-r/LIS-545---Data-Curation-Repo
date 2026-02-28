@@ -1,0 +1,1077 @@
+Interview Subject: Abell, George O. (George Ogden), 1927-1983
+Source: 80536
+Total PERSON/ORG entities: 783
+========================================================================================================================
+
+ENTITY                    LABEL           COUNT    CONTEXT EXAMPLES
+------------------------------------------------------------------------------------------------------------------------
+Zwicky                    PERSON          28       He and Zwicky were the
+                                                   assistant for Zwicky . I
+                                                   there was Zwicky . )
+
+Minkowski                 PERSON          27       worked for Minkowski one quarter
+                                                   I knew Minkowski extremely well
+                                                   guests . Minkowski gave one
+
+Cal Tech                  PERSON          22       exams for Cal Tech , passed
+                                                   go to Cal Tech from an
+                                                   go was Cal Tech , so
+
+UCLA                      ORG             20       people at UCLA work .
+                                                   be at UCLA . That
+                                                   was at UCLA at that
+
+Palomar                   PERSON          16       . The Palomar 200 -
+                                                   was at Palomar approximately half
+                                                   especially at Palomar when I
+
+Baade                     PERSON          16       . And Baade . I
+                                                   one , Baade gave one
+                                                   me . Baade once told
+
+Lawrence                  PERSON          11       . And Lawrence certainly has
+                                                   Anyway , Lawrence was interested
+                                                   appointment . Lawrence became a
+
+Paul                      PERSON          10       by ( Paul ) Epstein
+                                                   , and Paul liked Fritz
+                                                   One time Paul was counting
+
+Schmidt                   PERSON          10       48 ” Schmidt in most
+                                                   before the Schmidt was finished.</p
+                                                   the U.K. Schmidt was finished.</p
+
+Helmut                    PERSON          9        Sandage and Helmut came when
+                                                   junior . Helmut was the
+                                                   Directors -- Helmut was president
+
+Greenstein                PERSON          9        guy . Greenstein was much
+                                                   I took Greenstein ’s course
+                                                   sense that Greenstein gave the
+
+Lick                      PERSON          9        people from Lick , and
+                                                   go to Lick ; we
+                                                   either at Lick or Kitt
+
+Osterbrock                PERSON          6        Oh , Osterbrock came in
+                                                   , and Osterbrock came while
+                                                   . And Osterbrock came at
+
+Abell                     ORG             6        about how Abell was n’t
+                                                   , one Abell . ”</p
+                                                   maybe two Abell clusters per
+
+Einerssen                 PERSON          6        out that Einerssen told the
+                                                   ? And Einerssen said ,
+                                                   that Dr. Einerssen suggested .
+
+Cal Tech                  ORG             5        me at Cal Tech over the
+                                                   started at Cal Tech ahead of
+                                                   get through Cal Tech faster than
+
+Dale Vrabeck              PERSON          5        undergraduates . Dale Vrabeck ( ?
+                                                   I knew Dale Vrabeck too ,
+                                                   I remember Dale Vrabeck would be
+
+Eastman                   PERSON          5        defects , Eastman ( Kodak
+                                                   these “ Eastman planetariums ,
+                                                   and told Eastman . They
+
+Dan Popper                PERSON          5        also to Dan Popper . Jesse
+                                                   highly of Dan Popper . So
+                                                   consisted of Dan Popper , who
+
+Sam                       PERSON          5        Frederick felt Sam was a
+                                                   I guess Sam did n’t
+                                                   Anyway , Sam wanted a
+
+Pasachoff                 ORG             5        , until Pasachoff came along
+                                                   pointing to Pasachoff ’s books;<sup>[<a
+                                                   than a Pasachoff ? ”
+
+Joy                       PERSON          4        course with Joy , or
+                                                   , and Joy , of
+                                                   conjunction with Joy ’s course
+
+Art Cox                   PERSON          4        , and Art Cox . Art
+                                                   Cox . Art Cox , he
+                                                   almost forgot Art Cox . We
+
+Jesse                     PERSON          4        talked to Jesse about it.</p
+                                                   I told Jesse that I
+                                                   occurred to Jesse that I
+
+Virgo                     ORG             4        than the Virgo cluster ;
+                                                   comparing the Virgo cluster luminosity
+                                                   , the Virgo cluster being
+
+Chandra                   PERSON          4        a paper Chandra published in
+                                                   and so Chandra accepted the
+                                                   a paper Chandra had written
+
+Popper                    ORG             4        him to Popper , who
+                                                   . And Popper has always
+                                                   , at Popper ’s request
+
+Coma                      PERSON          4        was the Coma cluster .
+                                                   And the Coma cluster photometry
+                                                   for the Coma cluster --
+
+Moon                      PERSON          4        have one Moon and one
+                                                   or the Moon you ’re
+                                                   to the Moon or Mars
+
+Cleminshaw                ORG             3        Yes . Cleminshaw ’s lectures
+                                                   director , Cleminshaw was associate
+                                                   article by Cleminshaw which I
+
+job.</p                   PERSON          3        very important job.</p > 
+
+                                                   very good job.</p > 
+
+                                                   very good job.</p > 
+
+
+Foster Strong             PERSON          3        fellow named Foster Strong , and
+                                                   told by Foster Strong , which
+                                                   in which Foster Strong was the
+
+Feynman                   ORG             3        course from Feynman . But
+                                                   was using Feynman ’s notes
+                                                   some of Feynman ’s lectures
+
+Jesse Greenstein          PERSON          3        Of course Jesse Greenstein I had
+                                                   that time Jesse Greenstein … </p
+                                                   so . Jesse Greenstein had just
+
+Munch                     ORG             3        it , Munch gave it
+                                                   . Guido Munch gave stellar
+                                                   him . Munch told me
+
+Lausitz                   ORG             3        they called Lausitz . They
+                                                   played the Lausitz national anthem
+                                                   minister from Lausitz , and
+
+Bowen                     PERSON          3        I guess Bowen probably approached
+                                                   I know Bowen had to
+                                                   Hubble , Bowen , Minkowski
+
+Hubble                    ORG             3        it was Hubble ’s baby
+                                                   familiar with Hubble ’s paper
+                                                   to measure Hubble ’s constant?</p
+
+way.</p                   PERSON          3        by the way.</p > 
+
+                                                   it that way.</p > 
+
+                                                   by the way.</p > 
+
+
+Fritz                     PERSON          3        Paul liked Fritz okay ,
+                                                   reason , Fritz , is
+                                                   I wish Fritz were here
+
+the Astrophysical Journal ORG             3        486 of the Astrophysical Journal and sent
+                                                   , of the Astrophysical Journal . This
+                                                   happen to the Astrophysical Journal , but
+
+Dan                       PERSON          3        did tell Dan that I
+                                                   only companion Dan had in
+                                                   got there Dan and I
+
+JPL                       ORG             3        well at JPL . Anyway
+                                                   Schmidt for JPL . We
+                                                   little for JPL and STL
+
+senate                    ORG             3        The academic senate can always
+                                                   the academic senate . I
+                                                   all the senate offices We
+
+BBC                       ORG             3        in this BBC program now
+                                                   approached by BBC ; the
+                                                   . The BBC people I
+
+Rainey                    ORG             3        . What Rainey found was
+                                                   high , Rainey can rule
+                                                   basis of Rainey ’s stuff
+
+STL                       ORG             3        worked for STL summers.</p >
+                                                   JPL and STL , what
+                                                   was then STL . STL
+
+Edinburgh                 PERSON          3        year . Edinburgh had a
+                                                   place . Edinburgh is kind
+                                                   apartment . Edinburgh is a
+
+Holmes                    PERSON          2        of Sherlock Holmes , and
+                                                   through the Holmes stories I
+
+Shakespeare               PERSON          2        interested in Shakespeare as a
+                                                   I love Shakespeare . Are
+
+Van Nuys High School      ORG             2        available at Van Nuys High School . I
+                                                   . In Van Nuys High School the place
+
+GI                        ORG             2        > The GI bill .
+                                                   some residual GI bill left
+
+Carl Anderson             PERSON          2        taught by Carl Anderson , who
+                                                   rays ( Carl Anderson taught it
+
+Johnson                   PERSON          2        know whether Johnson taught anything
+                                                   L.B. ) Johnson he called
+
+was.</p                   PERSON          2        what it was.</p > 
+
+                                                   which it was.</p > 
+
+
+Cleminshaw                PERSON          2        ways . Cleminshaw is still
+                                                   ’d heard Cleminshaw explain things
+
+the Griffith Observatory  ORG             2        month to the Griffith Observatory , and
+                                                   director of the Griffith Observatory . Several
+
+the American Astronomical Society ORG             2        heard of the American Astronomical Society . It
+                                                   meeting of the American Astronomical Society in 1956.</p
+
+Fleming House             ORG             2        on the Fleming House bowling team.</p
+                                                   president of Fleming House when I
+
+one.</p                   PERSON          2        dressed like one.</p > 
+
+                                                   heard that one.</p > 
+
+
+Harvard                   ORG             2        Michigan , Harvard , Indiana
+                                                   card to Harvard . It
+
+Jerzy Neyman              PERSON          2        things that Jerzy Neyman and Elizabeth
+                                                   called by Jerzy Neyman and Elizabeth
+
+Elizabeth Scott           PERSON          2        Neyman and Elizabeth Scott did later
+                                                   Neyman and Elizabeth Scott , and
+
+Bill Miller               PERSON          2        one by Bill Miller which was
+                                                   go through Bill Miller , who
+
+the Griffith Observer     ORG             2        things in the Griffith Observer ( 1952
+                                                   articles for the Griffith Observer . How
+
+Bob Harrington            PERSON          2        think . Bob Harrington , who
+                                                   , then Bob Harrington would come
+
+Al Wilson                 PERSON          2        observer for Al Wilson . By
+                                                   work . Al Wilson was an
+
+Neptune                   ORG             2        know whether Neptune is on
+                                                   , where Neptune was first
+
+Paul Wildt                PERSON          2        longer . Paul Wildt would be
+                                                   too . Paul Wildt , who
+
+Normandy                  PERSON          2        invasion of Normandy , he
+                                                   when the Normandy invasion came
+
+Jesus                     PERSON          2        , “ Jesus , man
+                                                   to find Jesus or whatever
+
+George                    PERSON          2        , “ George , why
+                                                   You know George . But
+
+IBM                       ORG             2        the ( IBM ) 604
+                                                   a [ IBM ] 360
+
+Harold Corwin             PERSON          2        wife and Harold Corwin is a
+                                                   Edinburgh , Harold Corwin . He
+
+S. Candlestick            PERSON          2        paper by S. Candlestick maker ,
+                                                   ” by S. Candlestick maker.</p >
+
+Sykes                     ORG             2        forgotten ( Sykes is it
+                                                   remember was Sykes , I
+
+Gerard                    PERSON          2        disagree with Gerard about his
+                                                   , with Gerard ’s super
+
+Sam Herrick               PERSON          2        yes . Sam Herrick was there
+                                                   Now , Sam Herrick and Frederick
+
+Herrick                   PERSON          2        too . Herrick was a
+                                                   recommended that Herrick be transferred
+
+Frederick Leonard         PERSON          2        Herrick and Frederick Leonard were kind
+                                                   mechanics , Frederick Leonard was editor
+
+Frederick                 PERSON          2        friendly . Frederick felt Sam
+                                                   respect for Frederick because he
+
+Goldberg                  PERSON          2        Michigan . Goldberg ’s interests
+                                                   quite unlike Goldberg and Greenstein
+
+Roger Ulrich              PERSON          2        ’ve gotten Roger Ulrich , Michael
+                                                   . Now Roger Ulrich is chairman
+
+Jonathan Katz             PERSON          2        Jura , Jonathan Katz and Bruce
+                                                   to get Jonathan Katz and Bruce
+
+Bruce Margon              PERSON          2        Katz and Bruce Margon and the
+                                                   Katz and Bruce Margon at the
+
+Ojai                      ORG             2        own at Ojai , a
+                                                   there ( Ojai ) for
+
+Kitt Peak                 ORG             2        observing , Kitt Peak , of
+                                                   Lick or Kitt Peak , I
+
+Ed                        PERSON          2        , and Ed was very
+                                                   Anyway , Ed had problems
+
+Nixon                     PERSON          2        Dicky ( Nixon ) .
+                                                   one liked Nixon . We
+
+Baker                     PERSON          2        dull and Baker was already
+                                                   , in Baker ’s book
+
+Paul Routly               PERSON          2        Popper and Paul Routly all read
+                                                   man was Paul Routly , whom
+
+Jay                       PERSON          2        , until Jay ( Pasachoff
+                                                   Well , Jay can use
+
+the Open University       ORG             2        know what the Open University is?</p >
+                                                   person from the Open University . We
+
+Ulrich                    ORG             2        actually replacing Ulrich , who
+                                                   place . Ulrich is damn
+
+Katz                      PERSON          2        miracles of Katz , but
+                                                   plus getting Katz and Margon
+
+Gordon McDonald           PERSON          2        to make Gordon McDonald happy ,
+                                                   going , Gordon McDonald left .
+
+Dave Saxon                PERSON          2        , when Dave Saxon was our
+                                                   . When Dave Saxon was dean
+
+Ed Krupp                  PERSON          2        on sabbatical Ed Krupp took it
+                                                   actually . Ed Krupp who ’s
+
+Foster                    PERSON          2        program . Foster unfortunately was
+                                                   year when Foster dropped out
+
+AAS                       ORG             2        for the AAS . Then
+                                                   for the AAS program .
+
+NSF                       ORG             2        is half NSF and half
+                                                   and had NSF support for
+
+UBV                       ORG             2        had a UBV photometer for
+                                                   have a UBV photometer right
+
+George Rainey             PERSON          2        that , George Rainey , and
+                                                   Brown . George Rainey had a
+
+Kron                      ORG             2        something like Kron is doing
+                                                   turns out Kron is doing
+
+de Vaucouleurs            PERSON          2        cluster , de Vaucouleurs and others
+                                                   so has de Vaucouleurs , that
+
+Mercury                   ORG             2        Of course Mercury comes ,
+                                                   I think Mercury does a
+
+ASP                       ORG             2        for the ASP ( Astronomical
+                                                   already . ASP has changed
+
+Board of Directors        ORG             2        on that Board of Directors -- Helmut
+                                                   the actual Board of Directors was not
+
+George Perkins            PERSON          2        amateurs , George Perkins , there
+                                                   people . George Perkins was on
+
+Helmut                    ORG             2        And then Helmut said ,
+                                                   appreciated what Helmut had said
+
+Heisenberg                PERSON          2        one that Heisenberg was the
+                                                   I met Heisenberg , but
+
+UNIVERSE                  ORG             2        AND THE UNIVERSE volume .
+                                                   OF THE UNIVERSE ( see
+
+U.N.                      ORG             2        , a U.N. conference ,
+                                                   was a U.N. resolution that
+
+JOURNAL                   ORG             2        > ASTROPHYSICAL JOURNAL 121 (
+                                                   > ASTROPHYSICAL JOURNAL 218 (
+
+Theodore C. Abell         PERSON          1        also : Theodore C. Abell , a
+
+Methodist                 ORG             1        be a Methodist , but
+
+Annamarie Ogden           PERSON          1        name was Annamarie Ogden , her
+
+George Ogden Abell        PERSON          1        ’m called George Ogden Abell . She
+
+George Ogden              PERSON          1        He was George Ogden , an
+
+the Kansas City Star      ORG             1        reporter for the Kansas City Star , from
+
+the Chicago Tribune       ORG             1        fired to the Chicago Tribune , I
+
+the Griffith Planetarium  ORG             1        me to the Griffith Planetarium shortly after
+
+Clarence Cleminshaw       ORG             1        lectures by Clarence Cleminshaw always impressed
+
+Robinson Crusoe           PERSON          1        things like Robinson Crusoe . I
+
+Dracula                   PERSON          1        such as Dracula ; and
+
+Doyle                     PERSON          1        other of Doyle ’s works
+
+not.</p                   PERSON          1        youth or not.</p > 
+
+
+the Hollywood Humanist Society.</p> ORG             1        founder of the Hollywood Humanist Society.</p > 
+ <
+
+American Humanist Society ORG             1        is an American Humanist Society now ,
+
+The Hollywood Humanist Society ORG             1        related . The Hollywood Humanist Society I do
+
+war.</p                   PERSON          1        during the war.</p > 
+
+
+the Army Air Corps        ORG             1        me about the Army Air Corps . This
+
+Alfred Stern              PERSON          1        much was Alfred Stern , who
+
+the French Army           ORG             1        he joined the French Army and of
+
+Alec Smith                PERSON          1        gosh . Alec Smith . I
+
+Linus Pauling             ORG             1        people . Linus Pauling taught freshmen
+
+Max Delbruck              PERSON          1        taught by Max Delbruck , who
+
+George Beadle             PERSON          1        fellow named George Beadle , who
+
+Delbruck                  PERSON          1        good . Delbruck was a
+
+J. J. Johnson             PERSON          1        given by J. J. Johnson . He
+
+Hugo Waiquist             PERSON          1        that was Hugo Waiquist ( ?
+
+Palomar                   ORG             1        student at Palomar , not
+
+Alfred Joy                PERSON          1        continue . Alfred Joy gave a
+
+Al Hibbs                  PERSON          1        there . Al Hibbs was in
+
+Dale                      PERSON          1        talked to Dale a few
+
+Alfred Joy.</p>
+<         PERSON          1        students and Alfred Joy.</p > 
+ < h3 >
+
+Alan Sandage              PERSON          1        remember were Alan Sandage , who
+
+Helmut Abt                PERSON          1        , and Helmut Abt . I
+
+Donald] Osterbrock        PERSON          1        later [ Donald ] Osterbrock came .
+
+Osterbrock’s              ORG             1        I was Osterbrock ’s first Ph.D.
+
+Mount Wilson              PERSON          1        was that Mount Wilson people would
+
+Palomar Observatories     PERSON          1        Wilson and Palomar Observatories . And
+
+George Bunton             PERSON          1        director , George Bunton was technician
+
+the Bishop Museum         ORG             1        planetarium at the Bishop Museum in Hawaii
+
+George Herbig             PERSON          1        time was George Herbig , for
+
+Chip Arp                  PERSON          1        included -- Chip Arp -- my
+
+John Russell              PERSON          1        p > John Russell at U.S.C.
+
+Paul Roques               PERSON          1        time . Paul Roques ( of
+
+Tommy Cragg               PERSON          1        ) and Tommy Cragg , who
+
+James Parker              PERSON          1        , including James Parker , Roland
+
+Roland Carpenter          PERSON          1        Parker , Roland Carpenter , Ed
+
+Ed Spiegel                PERSON          1        Carpenter , Ed Spiegel , and
+
+Indiana University        ORG             1        went to Indiana University for his
+
+Art                       PERSON          1        right ; Art and I
+
+Vernon Goldison           PERSON          1        it to Vernon Goldison . [
+
+Vernon                    ORG             1        heard of Vernon since then
+
+Griffith                  ORG             1        lecturer at Griffith also ,
+
+the Los Angeles Philharmonic ORG             1        going to the Los Angeles Philharmonic concerts ;
+
+Army                      ORG             1        of the Army effectively .
+
+Philharmonic              ORG             1        to the Philharmonic concert .
+
+Cal Tech?</p>
+<h3>        ORG             1        years at Cal Tech?</p > 
+ < h3 > Abell:</h3 >
+
+The California Tech       ORG             1        p > The California Tech ; was
+
+RPM                       ORG             1        3,000 78 RPM records from
+
+Richard Tauber            PERSON          1        one is Richard Tauber ; I
+
+Caruso                    PERSON          1        all the Caruso except the
+
+get.</p                   PERSON          1        have to get.</p > 
+
+
+Paul Saltzman             PERSON          1        senior was Paul Saltzman , who
+
+Bud Mittenthal            PERSON          1        Mittenthal , Bud Mittenthal , was
+
+Hawthorne                 PERSON          1        guy named Hawthorne who had
+
+Lausatian Sorb            PERSON          1        what a Lausatian Sorb looked like
+
+Navy Program              ORG             1        was a Navy Program . Cal
+
+Guy Maier                 PERSON          1        studied with Guy Maier , whose
+
+Maier                     ORG             1        team , Maier and Paterson
+
+Paterson                  PERSON          1        Maier and Paterson , or
+
+Tower Records             ORG             1        works for Tower Records . It
+
+kid.</p>
+                 PERSON          1        a brilliant kid.</p > 
+ < h3
+
+California State          ORG             1        but also California State had $
+
+Bill Baum                 PERSON          1        bit for Bill Baum reducing photoelectric
+
+Timothy Ferris            PERSON          1        author , Timothy Ferris , describes
+
+Robert Walker             PERSON          1        given by Robert Walker , which
+
+Feynman                   PERSON          1        I think Feynman originated the
+
+Walker                    ORG             1        book by Walker and somebody
+
+Plesset                   ORG             1        , from Plesset ( forget
+
+Quantum                   ORG             1        just … Quantum mechanics was
+
+Leveret Davis             PERSON          1        There was Leveret Davis , for
+
+William Smythe’s          PERSON          1        n’t take William Smythe ’s course .
+
+Davis                     PERSON          1        it . Davis also had
+
+Kirov                     ORG             1        method of Kirov and Bogolyubov
+
+Bob King                  PERSON          1        optics ? Bob King . Also
+
+H.P. Robertson            PERSON          1        relativity with H.P. Robertson . He
+
+Cal Tech’s                PERSON          1        to what Cal Tech ’s were then.</p
+
+Baum                      PERSON          1        A. ) Baum gave one
+
+Baum’s                    ORG             1        on . Baum ’s , of
+
+Oort                      PERSON          1        course by Oort , as
+
+Tom Gehrels               PERSON          1        then later Tom Gehrels came for
+
+Bob Leighton              PERSON          1        teacher . Bob Leighton , I
+
+Bondi                     PERSON          1        way . Bondi had just
+
+Emden                     ORG             1        graphs of Emden ’s equation
+
+Anyhow Guido              PERSON          1        paper . Anyhow Guido wanted me
+
+Willie Fowler             PERSON          1        talked to Willie Fowler and got
+
+the National Geographic Society ORG             1        funding from the National Geographic Society , as
+
+Al Wilson.</p             PERSON          1        it was Al Wilson.</p > 
+
+
+Harrington’s              ORG             1        largely through Harrington ’s good work
+
+Wilson                    PERSON          1        me about Wilson because we
+
+Lowell                    PERSON          1        He left Lowell and I
+
+RAND (Corp.               ORG             1        up at RAND ( Corp. ) eventually
+
+RAND                      ORG             1        was at RAND for a
+
+Harrington                ORG             1        And then Harrington continued as
+
+Wilson                    ORG             1        , than Wilson , we
+
+nebulae.</p>
+<            PERSON          1        in planetary nebulae.</p > 
+ < h3 >
+
+L                         ORG             1        it , L actually revised
+
+Kodak                     ORG             1        Eastman ( Kodak ) defects
+
+the National Geographical Society ORG             1        relations with the National Geographical Society during this
+
+Windsor Booth             PERSON          1        around . Windsor Booth was the
+
+the News Bureau           ORG             1        Booth was the News Bureau Chief ,
+
+Dale                      ORG             1        Minkowski and Dale said he
+
+BD                        ORG             1        with the BD chart and
+
+Al                        PERSON          1        plate under Al ’s guidance
+
+M51                       ORG             1        guidance of M51 ; I
+
+Guido                     ORG             1        problem with Guido . I
+
+the Astrophysical Journal’s ORG             1        analysis of the Astrophysical Journal ’s growth rate
+
+Ap                        ORG             1        at the Ap . J.</p
+
+Chandrasekhar’s           ORG             1        atmospheres or Chandrasekhar ’s papers of
+
+Ferian                    PERSON          1        was Mrs. Ferian who was
+
+Jay Pasachoff             PERSON          1        to what Jay Pasachoff says in
+
+Howard Gates              PERSON          1        , or Howard Gates ; they
+
+Alsace-Lorraine           ORG             1        born in Alsace - Lorraine , I
+
+the Pestalozzi Foundation ORG             1        ; like the Pestalozzi Foundation that he
+
+the physics department    ORG             1        taught in the physics department , of
+
+Einstein                  PERSON          1        thermodynamics , Einstein and me
+
+Osterbrock                ORG             1        assigned to Osterbrock , which
+
+Ross                      PERSON          1        - inch Ross lenses ,
+
+Franklin-Adams            ORG             1        . The Franklin - Adams star charts
+
+Karl Heinz                PERSON          1        talking to Karl Heinz , who
+
+HP                        ORG             1        with a HP [ Hewlett
+
+Hewlett-Packard           ORG             1        HP [ Hewlett - Packard ] 65
+
+Hubble’s 1935             ORG             1        repeat of Hubble ’s 1935 , ‘
+
+published.<sup>[<a        ORG             1        is all published.<sup>[<a href="#ftn.5 "
+
+Berkley                   ORG             1        at the Berkley meeting of
+
+Bogard                    PERSON          1        , like Bogard and Wagner
+
+Wagner                    ORG             1        Bogard and Wagner , and
+
+Chandra’s                 ORG             1        student of Chandra ’s , wrote
+
+the Proceedings of the Royal Society of London ORG             1        published in the Proceedings of the Royal Society of London I think
+
+the Imperturbability of Elevator Operators ORG             1        “ On the Imperturbability of Elevator Operators , LVII
+
+LVII                      ORG             1        Operators , LVII , ”
+
+Royal Society             ORG             1        in this Royal Society publication .
+
+the Quarterly Journal of the RAS ORG             1        it , the Quarterly Journal of the RAS ? Anyway
+
+G. de Vaucouleurs         PERSON          1        paper by G. de Vaucouleurs , in
+
+man.</p                   PERSON          1        binary star man.</p > 
+
+
+Frederick C. Leonard      PERSON          1        There was Frederick C. Leonard , the
+
+Sam’s                     PERSON          1        , and Sam ’s view was
+
+the Los Angeles Times     ORG             1        telephoned by the Los Angeles Times . They
+
+John Anderson             PERSON          1        . Like John Anderson , who
+
+’s degrees                PERSON          1        with master ’s degrees , so
+
+Clark Kerr                PERSON          1        reality . Clark Kerr was then
+
+Lawrence Aller            PERSON          1        of getting Lawrence Aller . He
+
+Aller                     PERSON          1        But anyway Aller was anxious
+
+the Academy at            ORG             1        member of the Academy at the same
+
+Sputnik                   PERSON          1        n’t think Sputnik alone did
+
+Don Giovanni              PERSON          1        a “ Don Giovanni ” if
+
+Mozart                    PERSON          1        been a Mozart . Some
+
+Sam Was                   PERSON          1        made ; Sam Was transferred to
+
+Ray Weyman                PERSON          1        We got Ray Weyman , who
+
+Rudolf Kippenhahn         PERSON          1        We had Rudolf Kippenhahn with us
+
+Miroslav Plavec           PERSON          1        We got Miroslav Plavec ; it
+
+Michael Jura              PERSON          1        Ulrich , Michael Jura , Jonathan
+
+Mt Wilson                 ORG             1        members to Mt Wilson But the
+
+Ed Upton                  PERSON          1        member , Ed Upton , for
+
+L.B.                      PERSON          1        ( President L.B. ) Johnson
+
+Dicky                     PERSON          1        he called Dicky ( Nixon
+
+Sandage                   PERSON          1        know , Sandage is a
+
+Willy Fowler’s            PERSON          1        , ( Willy Fowler ’s group for
+
+Leighton                  PERSON          1        .You have Leighton doing other
+
+Christy                   PERSON          1        tell you Christy , and
+
+Kip Thorne’s              PERSON          1        of course Kip Thorne ’s group ,
+
+Peter                     PERSON          1        and ( Peter ) Goldreich
+
+Princeton                 ORG             1        now are Princeton and Cal
+
+Baker.<sup>[<a            ORG             1        were using Baker.<sup>[<a href="#ftn.10 "
+
+Rinehart &                ORG             1        Holt , Rinehart & amp ;
+
+McLaughlin’s              PERSON          1        example , McLaughlin ’s . It
+
+McLaughlin                PERSON          1        started because McLaughlin was actually
+
+Paul Wiley                PERSON          1        department . Paul Wiley in particular
+
+Holt                      ORG             1        that time Holt had a
+
+Special Projects          ORG             1        division called Special Projects , and
+
+SUN                       ORG             1        BUILD A SUN ; it
+
+NBC                       ORG             1        for an NBC show a
+
+Leonard Nimoy’s           PERSON          1        one of Leonard Nimoy ’s shows .
+
+Sidney Omarr              PERSON          1        to debate Sidney Omarr . He
+
+Sidney                    PERSON          1        I know Sidney very well
+
+Von Danikan’s             PERSON          1        course believe Von Danikan ’s stuff ,
+
+Bermuda Triangle          PERSON          1        plants , Bermuda Triangle and Bigfoot
+
+Bigfoot                   PERSON          1        Triangle and Bigfoot and on
+
+BBC-Open University       ORG             1        in a BBC - Open University film series.</p
+
+University of California  ORG             1        UC ( University of California ) and
+
+the Florence Museum       ORG             1        Galileo at the Florence Museum . We
+
+Open University           ORG             1        of my Open University colleagues will
+
+House                     ORG             1        Sagredo ’s House in Venice
+
+Northumberland            ORG             1        from the Northumberland telescope ,
+
+AAS                       PERSON          1        now the AAS ( American
+
+American Astronomical Society ORG             1        AAS ( American Astronomical Society ) for
+
+Martin Schwarzschild      PERSON          1        people like Martin Schwarzschild say ,
+
+Bart Bok                  PERSON          1        ” and Bart Bok and others
+
+Gee                       PERSON          1        think , Gee , I
+
+Paul Routly               ORG             1        project with Paul Routly on clusters
+
+Plavec                    PERSON          1        finally when Plavec came we
+
+Roger                     PERSON          1        chairman . Roger ’s doing
+
+Holland Ford              PERSON          1        . And Holland Ford is doing
+
+Bruce                     PERSON          1        but also Bruce has been
+
+Margon                    ORG             1        Katz and Margon , and
+
+Ronald Reagan             PERSON          1        Then when Ronald Reagan was elected
+
+Reagan                    PERSON          1        in the Reagan years .
+
+the Thatcher School       ORG             1        headmaster of the Thatcher School , Newton
+
+Newton K. Chase           ORG             1        School , Newton K. Chase . He
+
+Pomona College            ORG             1        then at Pomona College . Everything
+
+Bob Brownlee              PERSON          1        times , Bob Brownlee one year
+
+Harlan Epps               PERSON          1        year , Harlan Epps for a
+
+The Helms Foundation      ORG             1        mostly . The Helms Foundation and the
+
+the Robert Lloyd Foundation ORG             1        Foundation and the Robert Lloyd Foundation were the
+
+Lockheed                  ORG             1        first . Lockheed , Hughes
+
+Hughes Aircraft           ORG             1        Lockheed , Hughes Aircraft , Bendix
+
+Maarten Schmidt           PERSON          1        , and Maarten Schmidt is on
+
+Mike Dworetsky            PERSON          1        . Including Mike Dworetsky , Dennis
+
+Dennis Elliott            PERSON          1        Dworetsky , Dennis Elliott , John
+
+John Mottmann             PERSON          1        Elliott , John Mottmann who was
+
+the AAS Committee on Education ORG             1        started with the AAS Committee on Education in Astronomy
+
+the Shapley Grant         ORG             1        grants , the Shapley Grant , and
+
+the V.N. Slipher Fund     ORG             1        interest from the V.N. Slipher Fund . That
+
+the National Academy      ORG             1        given to the National Academy for astronomical
+
+Hank Gurin                PERSON          1        over to Hank Gurin for the
+
+Spencer                   PERSON          1        know , Spencer , is
+
+Dimitri Mihalas           PERSON          1        back when Dimitri Mihalas was an
+
+Schechter                 PERSON          1        well ; Schechter has adopted
+
+Gus Oemler                PERSON          1        since ; Gus Oemler did a
+
+Paul Schechter            PERSON          1        . And Paul Schechter invented a
+
+M87                       ORG             1        ellipticals around M87 , the
+
+Tammann                   PERSON          1        Gustav ) Tammann actually more
+
+Z=0.2                     PERSON          1        negligible at Z=0.2 I would
+
+Rubble                    ORG             1        plot the Rubble diagram out
+
+De Vaucouleurs            PERSON          1        year . De Vaucouleurs ’ student
+
+George Stanley Brown      PERSON          1        student was George Stanley Brown . George
+
+Brown’s                   ORG             1        , from Brown ’s . He
+
+Brown                     PERSON          1        counts . Brown did counts
+
+Berkeley                  ORG             1        student at Berkeley , Kamed
+
+Kamed Kron                PERSON          1        Berkeley , Kamed Kron , in
+
+Jerry Kron’s              PERSON          1        in fact Jerry Kron ’s son ,
+
+John Mottmann,<sup>[<a    PERSON          1        , with John Mottmann,<sup>[<a href="#ftn.13 "
+
+Rainey’s                  ORG             1        top of Rainey ’s counts too
+
+Beatrice Tinsley          PERSON          1        predicted by Beatrice Tinsley . You
+
+Beatrice                  ORG             1        , as Beatrice points out
+
+Harvey McGillavry         PERSON          1        Edinburgh with Harvey McGillavry . Now
+
+Yu                        PERSON          1        Peebles and Yu a few
+
+Hauser                    ORG             1        on with Hauser and others
+
+Scientific American       ORG             1        the last Scientific American , there
+
+Aarseth’s                 PERSON          1        models like Aarseth ’s if you
+
+Steven Eastmond           PERSON          1        student ( Steven Eastmond ) recently
+
+Herb Rood                 PERSON          1        paper by Herb Rood , which
+
+Tifft                     PERSON          1        knew about Tifft and Gregory
+
+Gregory                   PERSON          1        Tifft and Gregory and Rood
+
+paper,<sup>[<a            PERSON          1        this 1961 paper,<sup>[<a href="#ftn.15 "
+
+doesn1                    ORG             1        say that doesn1 t cause
+
+Newton                    ORG             1        that means Newton ’s laws
+
+Greeks                    PERSON          1        when the Greeks were putting
+
+Kelvins                   PERSON          1        ten billion Kelvins and talk
+
+Fowler                    PERSON          1        all of Fowler and who
+
+Hoyle                     PERSON          1        forgotten , Hoyle and somebody
+
+THREE                     ORG             1        THE FIRST THREE MINUTES,<sup>[<a href="#ftn.16
+
+Weinberg                  PERSON          1        tentative . Weinberg opens up
+
+Sun                       ORG             1        Or the Sun ; you
+
+IAU                       ORG             1        advance . IAU meetings are
+
+symposia                  PERSON          1        , and symposia . I
+
+Gorenstein                PERSON          1        talked to Gorenstein on the
+
+Letters                   PERSON          1        . Rev. Letters , October
+
+Astrophysical Journal     ORG             1        Journal , Astrophysical Journal , Monthly
+
+Monthly Notices           ORG             1        Journal , Monthly Notices , I
+
+Sky                       ORG             1        , and Sky and Telescope
+
+Lick Observatory          PERSON          1        Director of Lick Observatory once .
+
+Charlie Townes            PERSON          1        all . Charlie Townes was chairman
+
+the Board of Directors    ORG             1        was on the Board of Directors for the
+
+Helmut Abt’s              PERSON          1        it was Helmut Abt ’s and my
+
+Stella Einerssen          PERSON          1        there was Stella Einerssen ( ?
+
+John Hall                 PERSON          1        well , John Hall was on
+
+Dan (Popper               ORG             1        think when Dan ( Popper ) was
+
+Board                     ORG             1        to the Board , or
+
+Einerssen                 ORG             1        to which Einerssen asked ,
+
+McNamara                  PERSON          1        We got McNamara for editor
+
+Louis Berman              PERSON          1        people wanted Louis Berman as editor
+
+Rick Reese’s              PERSON          1        bit on Rick Reese ’s staff ;
+
+Rick                      PERSON          1        yet . Rick has been
+
+Leon Salanave             PERSON          1        fellow was Leon Salanave , who
+
+Collins Radio             ORG             1        was for Collins Radio once .
+
+Agena                     ORG             1        observed the Agena rocket on
+
+Venus                     PERSON          1        was it Venus , I
+
+Douglas                   PERSON          1        bit for Douglas , a
+
+Phyllis                   PERSON          1        wife , Phyllis . When
+
+the Philadelphia Museum School of Art ORG             1        went to the Philadelphia Museum School of Art ; she
+
+the Max-Planck-Institute  ORG             1        year at the Max - Planck - Institute . I
+
+The Max-Planck Institute  ORG             1        then . The Max - Planck Institute in Munch
+
+Max-Planck                ORG             1        of many Max - Planck institutes in
+
+Ludwig Biermann           PERSON          1        . ) Ludwig Biermann was the
+
+Alan                      PERSON          1        letter to Alan with apologies
+
+George Simon              PERSON          1        time , George Simon , who
+
+John Hazlehurst           PERSON          1        lot with John Hazlehurst who was
+
+Kippenhahn                PERSON          1        people , Kippenhahn was there
+
+Gottingen                 PERSON          1        left for Gottingen ; I
+
+Gottingen                 ORG             1        talks at Gottingen and also
+
+Heidelberg                ORG             1        and also Heidelberg . The
+
+Vincent Reddish           PERSON          1        Australia . Vincent Reddish designed the
+
+Palomar Schmidt           PERSON          1        essentially the Palomar Schmidt , but
+
+Edinburgh isn’t.</p>
+<h3> PERSON          1        on . Edinburgh isn’t.</p > 
+ < h3 > Weart:</h3 >
+
+Laundromat                PERSON          1        use the Laundromat , you
+
+Times                     ORG             1        in the Times ( The
+
+The Late Times            ORG             1        Times ( The Late Times ; the
+
+the Hudson River Daily    ORG             1        is called the Hudson River Daily ) .
+
+USC                       ORG             1        ago a USC economist was
+
+Carter                    PERSON          1        President ) Carter is having
+
+Deep Throat               PERSON          1        not “ Deep Throat ” should
+
+C.E. Kearns               PERSON          1        > WITH C.E. Kearns , PASP
+
+Neyman, Scott             ORG             1        proof : Neyman , Scott and their
+
+Wirtanen                  PERSON          1        Shane and Wirtanen on the
+
+the Lick Astrographic Survey ORG             1        Wirtanen on the Lick Astrographic Survey ; they
+
+R.L. Weber                PERSON          1        reprinted in R.L. Weber , comp
+
+Institute of Physics      ORG             1        London : Institute of Physics , 1973).</p
+
+Rinehart                  PERSON          1        Holt , Rinehart , and
+
+R.H. Baker                PERSON          1        name="ftn.10">10</a>]</sup > R.H. Baker , ASTRONOMY</p
+
+W.B. Saunders             ORG             1        Philadelphia : W.B. Saunders , 1977).</p
+
+href="#12                 ORG             1        < p><sup>[<a href="#12 " id="ftn.12
+
+NASA                      ORG             1        substituted a NASA film clip
+
+Astronaut David Scott     ORG             1        clip of Astronaut David Scott dropping a
+
+href="#15                 ORG             1        < p><sup>[<a href="#15 " id="ftn.15
+
+Steven Weinberg           PERSON          1        > By Steven Weinberg ( N.Y.
+
+Publications of the Astronomical Society of The ORG             1        Astrophysics ; Publications of the Astronomical Society of The Pacific.</p >
+

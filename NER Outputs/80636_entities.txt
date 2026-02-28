@@ -1,0 +1,390 @@
+Interview Subject: Aigrain, P. (Pierre)
+Source: 80636
+Total PERSON/ORG entities: 280
+========================================================================================================================
+
+ENTITY                    LABEL           COUNT    CONTEXT EXAMPLES
+------------------------------------------------------------------------------------------------------------------------
+Navy                      ORG             10       in French Navy , and
+                                                   , the Navy decided to
+                                                   understand the Navy , because
+
+the Ecole Normale Supérieure ORG             10       student at the Ecole Normale Supérieure named Claude
+                                                   laboratory of the Ecole Normale Supérieure was headed
+                                                   laboratory of the Ecole Normale Supérieure , he
+
+Dugas                     PERSON          10       money , Dugas is the
+                                                   back , Dugas and me
+                                                   working with Dugas . We
+
+the French Navy           ORG             8        occupied , the French Navy was scattered
+                                                   to convince the French Navy to let
+                                                   France , the French Navy had not
+
+Frankl                    PERSON          8        semiconductors with Frankl in the
+                                                   , and Frankl was important
+                                                   , and Frankl convinced him
+
+Seitz                     ORG             7        p > Seitz was there
+                                                   p > Seitz was there
+                                                   connected to Seitz . Now
+
+Carnegie Tech             ORG             6        it was Carnegie Tech in electrical
+                                                   up at Carnegie Tech as graduate
+                                                   years at Carnegie Tech . And
+
+Rocard                    ORG             6        And since Rocard knew me
+                                                   . And Rocard also managed
+                                                   . But Rocard managed to
+
+the College of France     ORG             6        . At the College of France , I
+                                                   laboratory at the College of France . I
+                                                   problem with the College of France . The
+
+RCA                       ORG             6        was an RCA fellow ,
+                                                   , with RCA now .
+                                                   to the RCA lab ,
+
+Claude Dugas              PERSON          5        Supérieure named Claude Dugas , and
+                                                   studying . Claude Dugas went to
+                                                   he invited Claude Dugas to spend
+
+Liandrat                  ORG             5        them , Liandrat , who
+                                                   Now , Liandrat had not
+                                                   reference to Liandrat ’s paper
+
+Philippe Nozières         PERSON          5        , named Philippe Nozières , who
+                                                   students like Philippe Nozières , Pierre
+                                                   theoreticians like Philippe Nozières . There
+
+GaAs                      ORG             5        production of GaAs or silicon
+                                                   transistors with GaAs an electron
+                                                   on the GaAs laser ,
+
+Yves Rocard               PERSON          4        headed by Yves Rocard . He
+                                                   , and Yves Rocard who was
+                                                   France , Yves Rocard , director
+
+Dunbar                    ORG             4        ’s the Dunbar effect .
+                                                   And the Dunbar effect can
+                                                   be no Dunbar effect ,
+
+Benoit                    PERSON          4        man named Benoit a la
+                                                   I started Benoit a la
+                                                   way , Benoit a la
+
+Jacques Friedel           PERSON          4        Guinier and Jacques Friedel the "
+                                                   1954 , Jacques Friedel who graduated
+                                                   Mott and Jacques Friedel is a
+
+the Naval Academy         ORG             3        I entered the Naval Academy in 8th
+                                                   , and the Naval Academy was momentary
+                                                   courses at the Naval Academy , but
+
+Kaestler                  PERSON          3        , and Kaestler came to
+                                                   myself . Kaestler translated it
+                                                   presented by Kaestler . I
+
+Laval                     PERSON          3        to Professor Laval -- but
+                                                   I helped Laval with his
+                                                   , when Laval was nominated
+
+Raymond Bowls             PERSON          3        physicist , Raymond Bowls , of
+                                                   ? ] Raymond Bowls told him
+                                                   downcast . Raymond Bowls was honestly
+
+Bernard                   PERSON          3        ? ] Bernard , who
+                                                   it is Bernard and a
+                                                   the famous Bernard and Durafour
+
+Leon Brillouin            PERSON          3        notebooks of Leon Brillouin because you
+                                                   you know Leon Brillouin left France
+                                                   more . Leon Brillouin succeeded him
+
+war.</p                   PERSON          2        during the war.</p > 
+
+                                                   after the war.</p > 
+
+
+Taylor                    PERSON          2        ] , Taylor --</p >
+                                                   p > Taylor was one
+
+Liandrat                  PERSON          2        And poor Liandrat did not
+                                                   I met Liandrat much later
+
+Kikoim                    PERSON          2        Russian named Kikoim who was
+                                                   but as Kikoim had discovered
+
+Walker                    ORG             2        famous , Walker , the
+                                                   laboratory where Walker and McHaray
+
+Shockley                  ORG             2        . The Shockley paper on
+                                                   shortly before Shockley . So
+
+Shockley                  PERSON          2        , by Shockley . It
+                                                   transistor is Shockley . I
+
+Maurice Ponte             PERSON          2        company , Maurice Ponte who is
+                                                   physicist , Maurice Ponte got interested
+
+the College de France     ORG             2        also at the College de France at that
+                                                   professor at the College de France , Marcel
+
+the Atomic Energy Commission ORG             2        . At the Atomic Energy Commission ; I
+                                                   was at the Atomic Energy Commission by Rocard
+
+Pancheshnikov             PERSON          2        signing as Pancheshnikov which was
+                                                   , as Pancheshnikov was too
+
+Nozières                  PERSON          2        see , Nozières was not
+                                                   mentioned that Nozières going to
+
+van de Graaf              PERSON          2        . The van de Graaf had been
+                                                   in the van de Graaf , so
+
+Hall                      ORG             2        of the Hall angle ,
+                                                   then the Hall effect appeared
+
+MIT                       ORG             2        trained at MIT . He
+                                                   trained at MIT , joined
+
+the University of Paris   ORG             2        job at the University of Paris , where
+                                                   was under the University of Paris . It
+
+Ecole                     ORG             2        is the Ecole des Houches
+                                                   of the Ecole des Houches
+
+Cécile DeWitt             ORG             2        ? by Cécile DeWitt . She
+                                                   decoration to Cécile DeWitt , who
+
+Curien                    PERSON          2        People like Curien , Abragam
+                                                   Of course Curien is of
+
+Guinier                   PERSON          2        people like Guinier people like
+                                                   , with Guinier and then
+
+Pierre Weiss              PERSON          2        theory by Pierre Weiss around 1920
+                                                   students of Pierre Weiss . So
+
+Brillouin                 PERSON          2        > And Brillouin and so
+                                                   have known Brillouin well enough
+
+Brillouin                 ORG             2        out but Brillouin is somebody
+                                                   dimension the Brillouin zones they
+
+Marcel Brillouin          PERSON          2        France , Marcel Brillouin and his
+                                                   one was Marcel Brillouin who held
+
+Blanc Lapierre            PERSON          2        me that Blanc Lapierre had some
+                                                   . And Blanc Lapierre would be
+
+IBM                       ORG             2        working at IBM . So
+                                                   people at IBM who have
+
+Lillian Hoddeson          PERSON          1        This is Lillian Hoddeson and today
+
+Leonard Dobrzynski        PERSON          1        ’m with Leonard Dobrzynski in Paris
+
+Pierre Aigrain            PERSON          1        speaking with Pierre Aigrain , and
+
+Toulon                    ORG             1        scattered in Toulon , I
+
+Ravensbrück               PERSON          1        sent to Ravensbrück , and
+
+de Broglie                PERSON          1        written by de Broglie , and
+
+Dirac                     ORG             1        the famous Dirac treatise on
+
+the Naval Air Station     ORG             1        then to the Naval Air Station at Millington
+
+The French Navy           ORG             1        doctorate . The French Navy , after
+
+Guigonis                  PERSON          1        And then Guigonis did a
+
+the French Resistance     ORG             1        man in the French Resistance . During
+
+MODERN THEORY OF SOLIDS   ORG             1        Seitz ’s MODERN THEORY OF SOLIDS , which
+
+Frenchman                 PERSON          1        a young Frenchman was translating
+
+state physics department  ORG             1        remarkable solid state physics department of Carnegie
+
+Jaffe                     PERSON          1        first , Jaffe -- he
+
+the Communist Party       ORG             1        back fighting the Communist Party , with
+
+ab1e                      ORG             1        never been ab1e to do
+
+Lallemand                 ORG             1        astronomer named Lallemand who was
+
+Mattaray                  PERSON          1        known , Mattaray ( ?
+
+Laughter                  PERSON          1        . ( Laughter ) The
+
+genera1                   ORG             1        the same genera1 field --
+
+Alfred Kaestler           PERSON          1        had invited Alfred Kaestler , who
+
+Kaestler                  ORG             1        , as Kaestler is Alsacian.</p
+
+Weisser                   PERSON          1        Germans , Weisser -- I
+
+Volkenstein               PERSON          1        , and Volkenstein in the
+
+Frankls                   ORG             1        Kikoim in Frankls lab ,
+
+Pierre Gilles de Gennes   PERSON          1        Nozières , Pierre Gilles de Gennes -- he
+
+Davidov                   ORG             1        . The Davidov paper mentions
+
+University of Lille       ORG             1        professor at University of Lille for two
+
+C.S.F.                    ORG             1        company called C.S.F. ( just
+
+Thomsen                   PERSON          1        in the Thomsen group )
+
+Committee                 ORG             1        of the Committee had responsibilities
+
+McHaray                   PERSON          1        Walker and McHaray started making
+
+Philip                    PERSON          1        as with Philip , that
+
+Master of Science         ORG             1        year , Master of Science level thesis
+
+Jack Pinkove              PERSON          1        fellow , Jack Pinkove who is
+
+Basil (Soviet Union)</p>
+<h3>Hoddeson:</h3>
+<p> ORG             1        sulfide by Basil ( Soviet Union)</p > 
+ < h3 > Hoddeson:</h3 > 
+ < p > There was
+
+Marseille Luminy          ORG             1        professor at Marseille Luminy , passed
+
+Julian Bok.</p>           PERSON          1        There was Julian Bok.</p > 
+ <
+
+Princeton                 ORG             1        went to Princeton , and
+
+Pines                     ORG             1        , and Pines then came
+
+Julian Bok                PERSON          1        kind . Julian Bok was still
+
+Collette Rigaux           PERSON          1        light . Collette Rigaux had been
+
+Balkanski                 PERSON          1        -- named Balkanski , came
+
+Godefray                  PERSON          1        universities . Godefray ( ?
+
+Dijon                     PERSON          1        ) in Dijon , the
+
+Rodot in Bellevue         ORG             1        , like Rodot in Bellevue . So
+
+Groups                    ORG             1        atmosphere . Groups have kept
+
+Pierre Baruch.</p>
+       PERSON          1        semiconductors with Pierre Baruch.</p > 
+ < h3
+
+a van de Graaf            PERSON          1        to get a van de Graaf . The
+
+linear                    ORG             1        while the linear accelerator in
+
+Hall Effect               ORG             1        teaching of Hall Effect , even
+
+meta1                     PERSON          1        . A meta1 physicist ,
+
+Cornell University        ORG             1        , of Cornell University , had
+
+C.N.E.T.                  ORG             1        one at C.N.E.T. at the
+
+Durafour                  PERSON          1        man named Durafour who first
+
+David                     PERSON          1        Princeton and David Pines.</p >
+
+>David Pines              ORG             1        < p > David Pines , Smoluchowski
+
+Smoluchowski              PERSON          1        Pines , Smoluchowski ( crosstalk
+
+Weiner                    ORG             1        lab ; Weiner , of
+
+Bell Labs                 ORG             1        visitors from Bell Labs and so
+
+Bell Labs                 PERSON          1        semiconductors ? Bell Labs , of
+
+GE                        ORG             1        company , GE , RCA
+
+Bellevue                  ORG             1        ’s a Bellevue laboratory of
+
+Rodot                     ORG             1        laboratory of Rodot which started
+
+Rodot                     PERSON          1        , but Rodot decided to
+
+SAT                       ORG             1        with -- SAT which SAG
+
+SAG                       PERSON          1        SAT which SAG was anther
+
+Cadmium                   ORG             1        things , Cadmium telluride .
+
+Nikitine                  ORG             1        It was Nikitine in Strasbourg
+
+Bell Labs and GE.</p>     ORG             1        such as Bell Labs and GE.</p > 
+ <
+
+Andre Libchaber           PERSON          1        important , Andre Libchaber who had
+
+Frenchman                 ORG             1        was a Frenchman , telecommunications
+
+André Guinier             PERSON          1        together with André Guinier and Jacques
+
+Nevill Mott               PERSON          1        Bristol with Nevill Mott and Jacques
+
+Orsay                     ORG             1        laboratory at Orsay which at
+
+Mendès France             ORG             1        It is Mendès France ( and
+
+Gostan Berger             PERSON          1        ( and Gostan Berger was director
+
+BS                        ORG             1        at the BS level ,
+
+Orsay                     PERSON          1        separated and Orsay became a
+
+Paris 7                   ORG             1        6 and Paris 7 , and
+
+the University of Texas   ORG             1        professor at the University of Texas . Who
+
+Gordon                    PERSON          1        been the Gordon conferences but
+
+NATO                      ORG             1        supported by NATO and by
+
+The American Physical Society ORG             1        p > The American Physical Society set up
+
+Pierre Weiss.</p>
+        PERSON          1        back to Pierre Weiss.</p > 
+ < h3
+
+pre-war.</p               PERSON          1        well established pre - war.</p > 
+
+
+Medes                     ORG             1        about soft Medes . And
+
+Pierre Curie.</p>
+        PERSON          1        , since Pierre Curie.</p > 
+ < h3
+
+The College of France     ORG             1        France . The College of France is a
+
+Landau                    PERSON          1        such as Landau and Frankl
+
+Wilson                    PERSON          1        Frankl and Wilson and Brillouin.</p
+
+Peierls                   PERSON          1        I mean Peierls and Bethe
+
+Gérald Leman              PERSON          1        p > Gérald Leman told me
+
+Bell Laboratories         ORG             1        notebooks . Bell Laboratories is very
+
+Bertrand                  PERSON          1        man named Bertrand who had
+
+Leon                      PERSON          1        Marcel or Leon ever kept
+

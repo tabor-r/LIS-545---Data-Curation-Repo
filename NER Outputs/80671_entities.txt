@@ -1,0 +1,311 @@
+Interview Subject: Alder, B. J.
+Source: 80671
+Total PERSON/ORG entities: 360
+========================================================================================================================
+
+ENTITY                    LABEL           COUNT    CONTEXT EXAMPLES
+------------------------------------------------------------------------------------------------------------------------
+Battimelli                PERSON          95       Speaker ( Battimelli or Frankel):</h3
+                                                   Speaker ( Battimelli or Frankel):</h3
+                                                   Speaker ( Battimelli or Frankel):</h3
+
+Bill Wood                 PERSON          23       get is Bill Wood , who
+                                                   I think Bill Wood organized .
+                                                   . But Bill Wood would know
+
+Kirkwood                  PERSON          19       with , Kirkwood was at
+                                                   remember , Kirkwood had some
+                                                   being with Kirkwood in Los
+
+Teller                    PERSON          15       . Now Teller of course
+                                                   Metropolis and Teller are still
+                                                   . And Teller came to
+
+Livermore                 ORG             14       around at Livermore . Both
+                                                   , until Livermore basically got
+                                                   went to Livermore , I
+
+Montecarlo                PERSON          14       do with Montecarlo . And
+                                                   are doing Montecarlo so why
+                                                   n’t think Montecarlo was at
+
+Metropolis                PERSON          10       around , Metropolis [ ?
+                                                   is . Metropolis , they
+                                                   Rosenbooth and Metropolis and Teller
+
+Caltech                   ORG             9        time at Caltech . And
+                                                   of the Caltech computing center
+                                                   stayed at Caltech for a
+
+Franco                    PERSON          8        Alamos , Franco in Los
+                                                   lunch with Franco , whatever
+                                                   anyway , Franco and I
+
+Mark Katz                 PERSON          6        that is Mark Katz [ ?
+                                                   around . Mark Katz — I
+                                                   , and Mark Katz said ?
+
+Yang                      PERSON          4        computer , Yang [ ?
+                                                   that , Yang and his
+                                                   ? ? Yang [ ?
+
+Teller                    ORG             4        . But Teller grabs onto
+                                                   guy for Teller to drag
+                                                   sort of Teller by the
+
+Ulam                      PERSON          3        ? ? Ulam ’s [
+                                                   . So Ulam and Fermi
+                                                   meeting when Ulam retired from
+
+Los Alamos                PERSON          3        ? ? Los Alamos . I
+                                                   ? ? Los Alamos science journal
+                                                   to check Los Alamos ’ records
+
+Rosenbooth                PERSON          3        See , Rosenbooth was in
+                                                   — And Rosenbooth is now
+                                                   well , Rosenbooth and Metropolis
+
+Katz                      PERSON          3        papers . Katz ’s exists
+                                                   when was Katz ? ?
+                                                   ? . Katz , was
+
+Montecarlo Method         PERSON          3        known as Montecarlo Method , and
+                                                   they applied Montecarlo Method to do
+                                                   they use Montecarlo Method . And
+
+Stan Franco               PERSON          3        , and Stan Franco — So
+                                                   , and Stan Franco then went
+                                                   we , Stan Franco stayed at
+
+Feinmann                  PERSON          3        I guess Feinmann [ ?
+                                                   See , Feinmann was also
+                                                   — Was Feinmann at Caltech
+
+Berkeley                  ORG             3        say at Berkeley probably only
+                                                   particularly at Berkeley , were
+                                                   chemists at Berkeley , and
+
+Marshall                  PERSON          2        n’t know Marshall [ ?
+                                                   you know Marshall is extremely
+
+IBM                       ORG             2        only had IBM mechanical machinery.</p
+                                                   devices were IBM cards ,
+
+MIT                       ORG             2        and maybe MIT , who
+                                                   > At MIT , chemistry
+
+Lyon                      PERSON          2        then to Lyon , where
+                                                   still in Lyon as well
+
+Mondella                  PERSON          2        ] and Mondella [ ?
+                                                   somebody called Mondella I think
+
+Jung                      PERSON          2        — either Jung [ ?
+                                                   still are Jung or Lee
+
+Lee                       PERSON          2        ] or Lee [ ?
+                                                   Jung or Lee or one
+
+Scientific American       ORG             2        got into Scientific American , which
+                                                   have those Scientific American reprints .
+
+the University of California ORG             2        run by the University of California , partly
+                                                   ‘ 54 the University of California ran it
+
+Tom Wainright             PERSON          2        p > Tom Wainright [ ?
+                                                   ] as Tom Wainright in terms
+
+Bill Hoover               PERSON          2        Well , Bill Hoover is of
+                                                   When did Bill Hoover appear on
+
+Joe Mayer                 PERSON          2        mean , Joe Mayer [ ?
+                                                   . Now Joe Mayer [ ?
+
+Kirkwood’s                ORG             2        not believe Kirkwood ’s theory ,
+                                                   source for Kirkwood ’s collected works
+
+Einstein                  PERSON          2        And the Einstein relations ,
+                                                   equivalent of Einstein relation .
+
+Johnny                    PERSON          1        understand that Johnny will be
+
+quantum physics           ORG             1        ? ? quantum physics , which
+
+the American Philosophical Society ORG             1        are at the American Philosophical Society . And
+
+Viniert                   PERSON          1        calculation by Viniert [ ?
+
+Viniert                   ORG             1        sketch of Viniert , and
+
+Fermi-Montecarlo          ORG             1        is a Fermi - Montecarlo [ ?
+
+Los Alamos                ORG             1        ? ? Los Alamos journal in
+
+the American Institute of Physics ORG             1        going through the American Institute of Physics newsletter ,
+
+the Center for History of Physics ORG             1        newsletter , the Center for History of Physics . They
+
+the American Philosophical Society Library ORG             1        ? ? the American Philosophical Society Library , ?
+
+UCLA                      ORG             1        ’s either UCLA or ?
+
+Mitzi                     PERSON          1        Tellers , Mitzi , he
+
+Bill Woods’?</p>
+<        PERSON          1        was also Bill Woods’?</p > 
+ < h3 >
+
+Bill                      PERSON          1        was also Bill Woods’.</p >
+
+Stan Franklin             PERSON          1        is it Stan Franklin [ ?
+
+Franklin                  ORG             1        paper with Franklin ? ?
+
+>Bill Wood                PERSON          1        < p > Bill Wood would probably
+
+Lewinson                  PERSON          1        history . Lewinson [ ?
+
+Victor Lewinson           PERSON          1        student , Victor Lewinson was a
+
+Maniac                    ORG             1        And the Maniac [ ?
+
+Iniac                     ORG             1        when the Iniac [ ?
+
+Feranti                   PERSON          1        to the Feranti [ ?
+
+Feranti                   ORG             1        on that Feranti machine .
+
+the Teller-Rosenbooth     ORG             1        think that the Teller - Rosenbooth , the
+
+Joel Hildebar             PERSON          1        , mostly Joel Hildebar [ ?
+
+John Pope                 PERSON          1        is because John Pope [ ?
+
+Peter Masure              PERSON          1        , where Peter Masure [ ?
+
+Peter                     PERSON          1        no , Peter and I
+
+Ferguson                  ORG             1        edited by Ferguson [ ?
+
+the “64 Dollar Question   ORG             1        called then the “ 64 Dollar Question ” was
+
+Brown University          ORG             1        relations at Brown University . You
+
+Tom                       PERSON          1        article . Tom ? ?
+
+Zevi Zalsberg             PERSON          1        highly is Zevi Zalsberg . Now
+
+Rice University           ORG             1        computer at Rice University ? ?
+
+Chestnut                  PERSON          1        man called Chestnut who I
+
+Chester Salzburg          PERSON          1        into , Chester Salzburg [ ?
+
+Chester or Chestnut       ORG             1        name is Chester or Chestnut or something
+
+DOE                       ORG             1        these two DOE laboratories .
+
+Brookhaven                PERSON          1        Well , Brookhaven had some
+
+Liniac                    PERSON          1        probably how Liniac [ ?
+
+Livermore Lab             PERSON          1        When was Livermore Lab established?</p >
+
+Standard Oil              ORG             1        partly by Standard Oil , and
+
+the Department of Energy  ORG             1        is that the Department of Energy , the
+
+the Atomic Energy Commission’s ORG             1        Energy , the Atomic Energy Commission ’s predecessor ,
+
+the Atomic Energy Commission ORG             1        to persuade the Atomic Energy Commission in fact
+
+the Livermore Laboratories ORG             1        computer into the Livermore Laboratories . And
+
+I.                        ORG             1        ] and I. And we
+
+Tom Wainright.</p>
+       PERSON          1        p > Tom Wainright.</p > 
+ < h3
+
+University of Montana     ORG             1        went to University of Montana where Bill
+
+Jerry Urpenbank           PERSON          1        he had Jerry Urpenbank [ ?
+
+Rosenblooths              ORG             1        the two Rosenblooths , and
+
+Maniac                    PERSON          1        using the Maniac for ?
+
+Marshall Rosenblooth’s    PERSON          1        back about Marshall Rosenblooth ’s wife .
+
+Ulam Mayer                PERSON          1        certainly , Ulam Mayer [ ?
+
+the Bureau of Standards, SWAK ORG             1        built by the Bureau of Standards , SWAK standing for
+
+CIAK                      ORG             1        west and CIAK standing for
+
+Montecarlo                ORG             1        switch from Montecarlo approach and
+
+Kirkwood                  ORG             1        ? and Kirkwood integral equation
+
+the Green-Coomer          ORG             1        when was the Green - Coomer [ ?
+
+Green                     PERSON          1        sure when Green wrote his
+
+Helfand                   ORG             1        of which Helfand was a
+
+Green-Coomer              ORG             1        I believe Green - Coomer relations were
+
+Ulam-Parker               ORG             1        work of Ulam - Parker [ ?
+
+Don Frank                 PERSON          1        started with Don Frank [ ?
+
+Don                       PERSON          1        , as Don just says
+
+the Montecarlo Method     ORG             1        coefficient by the Montecarlo Method and so
+
+Harvard University        ORG             1        offers from Harvard University every day
+
+Harvard                   ORG             1        here at Harvard this year
+
+Irvin Oppenheim           PERSON          1        . But Irvin Oppenheim — [
+
+Gartworth                 PERSON          1        with Mrs. Gartworth [ ?
+
+Devon                     PERSON          1        He and Devon [ ?
+
+Julie Port                PERSON          1        there and Julie Port [ ?
+
+Bill Woods                PERSON          1        , when Bill Woods ? ?
+
+Stevens                   PERSON          1        about , Stevens was then
+
+Bill Hoover’s             PERSON          1        say that Bill Hoover ’s [ ?
+
+Bill Hoover.</p>
+<        PERSON          1        p > Bill Hoover.</p > 
+ < h3 >
+
+Bill Hoover?</p           PERSON          1        I say Bill Hoover?</p > 
+
+
+Cornell                   ORG             1        years at Cornell [ ?
+
+you.</p                   PERSON          1        okay with you.</p > 
+
+
+Hitler                    PERSON          1        , around Hitler ’s time
+
+the Manhattan Project     ORG             1        going to the Manhattan Project probably by
+
+the American Navy         ORG             1        drafted into the American Navy and spent
+
+Chemical                  ORG             1        background . Chemical engineering is
+
+Pauling                   PERSON          1        , and Pauling had too
+
+the Berkeley Chemistry Department ORG             1        time in the Berkeley Chemistry Department , as
+
+Lawrence                  PERSON          1        back to Lawrence and Lewis
+
+Lewis                     PERSON          1        Lawrence and Lewis , who
+
