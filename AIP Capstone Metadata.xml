@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource
+    xmlns="http://datacite.org/schema/kernel-4"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.6/metadata.xsd">
+
+    <identifier identifierType="DOI">:tba</identifier>
+
+    <creators>
+        <creator>
+            <creatorName nameType="Personal">Tabor, Rowan</creatorName>
+            <affiliation>University of Washington</affiliation>
+        </creator>
+        <creator>
+            <creatorName nameType="Personal">Ballmer, Mikaela</creatorName>
+            <affiliation>University of Washington</affiliation>
+        </creator>
+    </creators>
+
+    <titles>
+        <title>AIP Capstone Data</title>
+    </titles>
+
+    <publisher>Github</publisher>
+
+    <publicationYear>2026</publicationYear>
+
+    <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+
+    <subjects>
+        <subject xml:lang="en"
+            subjectScheme="Library of Congress Name Authority File (LCNAF)"
+            schemeURI="http://id.loc.gov/entities/providers/61a9a7f6bea88a035301c163bd97917c.html">
+            American Institute of Physics
+        </subject>
+        <subject xml:lang="en"
+            subjectScheme="Library of Congress Subject Headings (LCSH)"
+            schemeURI="http://id.loc.gov/authorities/subjects/sh85095238">
+            Oral History
+        </subject>
+    </subjects>
+
+<contributors>
+    <contributor contributorType="RightsHolder">
+        <contributorName nameType="Organizational">American Institute of Physics</contributorName>
+        <nameIdentifier nameIdentifierScheme="ROR" schemeURI="https://ror.org">https://ror.org/01wjhps77</nameIdentifier>
+    </contributor>
+</contributors>
+
+    <formats>
+        <format>text/plain</format>
+        <format>python</format>
+    </formats>
+
+    <rightsList>
+        <rights xml:lang="en">For information about reuse of materials or copyright please see: https://publishing.aip.org/resources/researchers/rights-and-permissions/permissions/.</rights>
+    </rightsList>
+
+    <descriptions>
+        <description descriptionType="Abstract">
+            This dataset was created as part of a collaboration between the University of Washington
+            and the American Institute of Physics as part of an MLIS capstone project that seeks to
+            explore novel computational methods for experiencing search and discovery within the AIP collection.
+        </description>
+        <description descriptionType="Methods">
+            The spaCy NLP model was applied to AIP oral history transcripts in order to identify
+            new connections and relationships between histories.
+        </description>
+    </descriptions>
+
+</resource>
