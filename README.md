@@ -1,6 +1,9 @@
 # LIS-545---Data-Curation-Repo
 
-Term Project Repository for LIS 545 Data Curation Principles
+This repository is a final project for LIS 545 Data Curation Principles
+
+The data was generated as part of a MLIS Student Capstone Project that is sponsored by University of Washington iSchool and the American Institute of Physics. The project focuses on the use of Natural Language Processing models and Name Entity Recognition to develop new methods of searching and navigating the AIP Oral History collection, and improving digital experiences cultural heritage collections through the use of computational methods.
+
 
 This repository contains:
 
@@ -12,5 +15,7 @@ This repository contains:
 
 -NER Outputs: Ten .txt files with structured NER data
 
+
+AIP Repository of source data may be found here: https://www.aip.org/history/oral-history
 
 Acknowledgement: Microsoft Copilot AI was used to help construct XML file.
